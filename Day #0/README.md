@@ -123,9 +123,9 @@ General format of tags are ``` <tagname> Some text </tagname>``` .Examples```<bo
 
 #### Bonus tags
 1. ```<a href = "https://instagram.com/">Instagram</a>``` : This is called as link tag. It is used to define links in our webpage.
-2. ```<h1>This is heading 1</h1>``` :<h1>This is heading 1</h1>
-3. ```<h2>This is heading 2</h2>``` : <h2>This is heading 2</h2>
-4. ```<h3>This is heading 3</h3>``` : <h3>This is heading 3</h3>
-5. ```<h4>This is heading 4</h4>``` : <h4>This is heading 4</h4>
-6. ```<h5>This is heading 5</h5>``` : <h5>This is heading 5</h5>
-7. ```<h6>This is heading 6</h6>``` : <h6>This is heading 6</h6>
+2. ```<h1>This is heading 1</h1>``` : Largest heading
+3. ```<h2>This is heading 2</h2>``` : Smaller than h1 and larger than h3.
+4. ```<h3>This is heading 3</h3>``` : Smaller than h2 and larger than h4.
+5. ```<h4>This is heading 4</h4>``` : Smaller than h3 and larger than h5.
+6. ```<h5>This is heading 5</h5>``` : Smaller than h4 and larger than h6
+7. ```<h6>This is heading 6</h6>``` : Smallest heading.
