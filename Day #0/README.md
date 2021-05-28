@@ -1,5 +1,9 @@
 # Day 0
 
+## HTML
+> HTML stands for Hyper text markup language. It is an standard language to create webpages.
+> It was invented by Tim Berners-Lee in 1991.
+
 ## Hello World!
 ```html
 <!DOCTYPE html>
@@ -16,7 +20,7 @@
 This is a very simple webpage that only shows hello world on the browser.
 
 #### Tags:
-> These are some keywords which defines how web browser will disploy the content.
+> These are some keywords which defines how web browser will display the content.
 
 In simpler terms tags are words that are used to make website. **They are like bricks of webpage**.  
 
@@ -96,7 +100,7 @@ General format of tags are ``` <tagname> Some text </tagname>``` .Examples```<bo
 
 ###### Exercise 02
 1. Create a folder on desktop called *github-username*.github.io , inside this create a new file called *index.html* and paste your photo inside this folder. Rename your photo to *img.jpg*. Then open index.html in notepad ++
-2. Write a html program white following functions:
+2. Write a html program with following functions:
   * Title as your Name
   * "About Me" heading
   * Simple paragraph about you.
@@ -110,8 +114,18 @@ General format of tags are ``` <tagname> Some text </tagname>``` .Examples```<bo
 ##### [Solution 02](exercises/02/index.html)
 
 ## Deploy to Github:
-1. Create a New repository inside github with name *github-username*.github.io.
+1. Create a New repository inside github with name *github-username*.github.io
 3. Check Add a with README file, leave everything else.
 4. After it is created. Click on Add file then upload files.
 5. Upload both **index.html** and **img.jpg** from the folder which you created earlier on desktop called *github-username*.github.io
-6. Wait for 5 minutes the go to https://*github-username*.github.io 
+6. Wait for 5 minutes the go to https://*github-username*.github.io
+
+
+#### Bonus tags
+1. ```<a href = "https://instagram.com/">Instagram</a>``` : This is called as link tag. It is used to define links in our webpage.
+2. ```<h1>This is heading 1</h1>``` :<h1>This is heading 1</h1>
+3. ```<h2>This is heading 2</h2>``` : <h2>This is heading 2</h2>
+4. ```<h3>This is heading 3</h3>``` : <h3>This is heading 3</h3>
+5. ```<h4>This is heading 4</h4>``` : <h4>This is heading 4</h4>
+6. ```<h5>This is heading 5</h5>``` : <h5>This is heading 5</h5>
+7. ```<h6>This is heading 6</h6>``` : <h6>This is heading 6</h6>
