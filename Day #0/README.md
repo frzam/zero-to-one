@@ -108,3 +108,10 @@ General format of tags are ``` <tagname> Some text </tagname>``` .Examples```<bo
   * Mobile Number and Email
 
 ##### [Solution 02](exercises/02/index.html)
+
+## Deploy to Github:
+1. Create a New repository inside github with name *github-username*.github.io.
+3. Check Add a with README file, leave everything else.
+4. After it is created. Click on Add file then upload files.
+5. Upload both **index.html** and **img.jpg** from the folder which you created earlier on desktop called *github-username*.github.io
+6. Wait for 5 minutes the go to https://*github-username*.github.io 
