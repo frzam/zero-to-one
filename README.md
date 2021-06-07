@@ -11,12 +11,22 @@
 | `<body>` |Every thing that we see in the browser window lies inside body.|
 | `<title>` |Title is present in the head of browser, and used to give title to webpage. For ex: **facebook** |
 | `<h1>` |Header 1 or h1 is used to give heading in browser. |
+| `<a href = "https://instagram.com/">Instagram</a>`|This is called as link |g. It is used to define links in our webpage. |
+|`<!--Comments -->`| Any code inside comments will not display on screen. It is used to mention the logic of the code.|
+
+### Structure
+|Tags                     | Usage                                               |
+|:---                     |:---                                                 |
+|`<div>`| Defines a section in a document (block-level) It is used to divide big webpage into multiple smaller component.|
+|`<span>`|Defines a section in a document (inline)|
+|`<br>`| It is used to break line a paragraph.|
+|`<hr>`|It is used to make a horizontal rule(line) in webpage.|
+|`<img>`|Image tag is used to show image on the browser. It takes one attribute **src** which is takes location of image to show. |
 
 
 ### Heading
 |Tags                     | Usage                                               |
 |:---                     |:---                                                 |
-| `<a href = "https://instagram.com/">Instagram</a>`|This is called as link |g. It is used to define links in our webpage.
 | `<h1>This is heading 1</h1>`|Largest heading|
 | `<h2>This is heading 2</h2>`|Smaller than h1 and larger than h3.|
 | `<h3>This is heading 3</h3>`|Smaller than h2 and larger than h4.|
@@ -47,3 +57,7 @@
 |`<dl>` | It defines the description list. |
 |`<dt>` | It defines the term in a description list  |
 |`<dd>` | It describes the term in description list |
+
+### CSS Basics
+
+|||
