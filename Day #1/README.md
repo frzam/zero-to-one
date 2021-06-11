@@ -189,6 +189,10 @@ it will redirect to amazon page.
     </div>
   </body>
 </html>
-
-
 ```
+
+###### Exercise 02
+1. Create a tribute page for your favourite writer, singer, actor, leader or anyone you like.
+2. Introduction, Profile Photo, About, Timeline, Quotes, Reference and about you as well, should be present.
+3. You can add more things you like.
+4. Once done create a repo in github and upload all the files of this project.
