@@ -84,7 +84,10 @@
 ###### Exercise 03
 1. Create a webpage with below mentioned format. Attach link on amazon to each description term so that when we click on it,
 it will redirect to amazon page.
-![Assignment](exercises/01/01.png)
+
+<p>
+  <img src="https://github.com/farzamalam/zero-to-one/blob/1de38d8dc0582b74e2853825b83648021dd2238a/Day%20%231/exercises/01/01.PNG" />
+</P>
 
 ##### [Solution 02](exercises/01/index.html)
 ## Structure and CSS
