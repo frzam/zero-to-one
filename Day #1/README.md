@@ -80,3 +80,11 @@
 |    `<ins>`|Inserted text|
 |    `<sub>`|Subscript text|
 |    `<sup>`|Superscript text|
+
+###### Exercise 03
+1. Create a webpage with below mentioned format. Attach link on amazon to each description term so that when we click on it,
+it will redirect to amazon page.
+![Assignment](exercises/01/01.png)
+
+##### [Solution 02](exercises/01/index.html)
+## Structure and CSS
