@@ -1,0 +1,23 @@
+header{
+  position: relative;
+}
+
+.banner{
+  position: relative;
+}
+
+#banner-id{
+  max-width: 100%;
+}
+
+.welcome{
+  position: absolute;
+  left: 0;
+  top: 30%;
+  color: white;
+  background-color: #Feb614;
+  padding: 30px;
+}
+.banner h2{
+  font-size: 74px;
+}

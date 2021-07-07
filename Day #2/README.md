@@ -70,15 +70,15 @@ h1{
 }
 
 div{
-  /* border-style: solid; */
+  border-style: solid;
 }
 
 p{
   color: grey;
   font-size: 20px;
   border-style: solid;
-  /* column-count: 3;
-  letter-spacing: 2px; */
+ column-count: 3;
+  letter-spacing: 2px;
 }
 body{
   text-align: center;
@@ -120,3 +120,14 @@ p.error{
 **Margin and Padding**
 
 ![Difference](https://i.stack.imgur.com/UHD7W.gif)
+
+## HTML5 Semantic Tags
+### Heading
+|Tags                     | Usage                                               |
+|:---                     |:---                                                 |
+| `<main>`|For the main content of a webpage, unique to a page.|
+| `<section>`| Defines a certain section of a web page|
+| `<article>`|Defines a bit of content which makes up an article.|
+| `<aside>`|Defines some content related to something else(similar blogs)|
+| `<header>`|For the header of a website, contains the nav, title etc|
+| `<footer>`|The footer of a website|
