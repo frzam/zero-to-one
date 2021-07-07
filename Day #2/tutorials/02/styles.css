@@ -16,8 +16,22 @@ p{
 }
 body{
   text-align: center;
-  background-color: #bde38d
 }
 a{
   border-style: solid;
+}
+/* */
+.about{
+  color: red;
+  background-color: pink;
+}
+/* .error{
+  color: red;
+} */
+p.error{
+  color: red;
+}
+
+#content{
+  background-color: lightgray;
 }

@@ -70,30 +70,45 @@ h1{
 }
 
 div{
-  border-style: solid;
+  /* border-style: solid; */
 }
 
 p{
   color: grey;
   font-size: 20px;
   border-style: solid;
-  column-count: 3;
-  letter-spacing: 2px;
+  /* column-count: 3;
+  letter-spacing: 2px; */
 }
 body{
   text-align: center;
-  background-color: #bde38d
 }
 a{
   border-style: solid;
 }
+/* */
+.about{
+  color: red;
+  background-color: pink;
+}
+ .error{
+  color: red;
+}
+p.error{
+  color: red;
+}
+
+#content{
+  background-color: lightgray;
+}
+
 
 ```
 
 **Inline Elements**
 1. They line up next to each other.
 2. Don't take more room than there contents need.
-3. ex `<img>`, `<span>`, `<a>` , `<strong>`
+3. ex `<img>`, `<span>`, `<a>` , `<strong>` etc
 
 **Block level Elements**
 1. They do not sit side by side.
