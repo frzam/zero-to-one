@@ -56,7 +56,52 @@ Generally external CSS is used and considered a best practice.
       <h2>Thanks</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis risus in massa sagittis tincidunt. Aliquam enim magna, varius sit amet ante ut, rutrum vulputate orci. Integer in pellentesque nisl, et scelerisque arcu. Donec sem magna, blandit in auctor facilisis, aliquam nec erat. Vivamus vel libero rhoncus, sodales turpis in, bibendum libero. Nullam pulvinar lorem vel ante feugiat, auctor interdum justo rhoncus. Nulla congue quis est quis ullamcorper.</p>
     </div>
+    <p>Block Level element Paragraph</p>
+    <a href="#">In line element a</a>
   </body>
 </html>
 ```
 If one element has css property defined at attribute level than it will override external css property. Though rules are little complex and not part of these sessions.
+
+```CSS
+h1{
+  color: orange;
+  text-decoration: underline;
+}
+
+div{
+  border-style: solid;
+}
+
+p{
+  color: grey;
+  font-size: 20px;
+  border-style: solid;
+  column-count: 3;
+  letter-spacing: 2px;
+}
+body{
+  text-align: center;
+  background-color: #bde38d
+}
+a{
+  border-style: solid;
+}
+
+```
+
+**Inline Elements**
+1. They line up next to each other.
+2. Don't take more room than there contents need.
+3. ex `<img>`, `<span>`, `<a>` , `<strong>`
+
+**Block level Elements**
+1. They do not sit side by side.
+2. They take width of the page regardless of the content.
+3. ex `<p>`, `<div>`, `<h1>` etc
+
+
+
+**Margin and Padding**
+
+![Difference](https://i.stack.imgur.com/UHD7W.gif)

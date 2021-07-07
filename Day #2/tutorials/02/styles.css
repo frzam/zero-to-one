@@ -1,10 +1,23 @@
 h1{
   color: orange;
+  text-decoration: underline;
 }
+
+div{
+  /* border-style: solid; */
+}
+
 p{
   color: grey;
+  font-size: 20px;
+  border-style: solid;
+  /* column-count: 3;
+  letter-spacing: 2px; */
 }
 body{
   text-align: center;
   background-color: #bde38d
+}
+a{
+  border-style: solid;
 }
